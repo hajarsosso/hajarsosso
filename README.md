@@ -2,7 +2,7 @@
 👩‍💻 Full Stack Developer | 🌱 Currently learning React & Laravel | 🚀 Open to collaborations  
 
 
-<img src="./assets/pic.png" align="right" width="310" alt="About Me Illustration">
+<img src="./assets/pic1.png" align="right" width="310" alt="About Me Illustration">
 
 <br>
 
