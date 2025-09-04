@@ -1,14 +1,12 @@
-## # Hi there 👋, I'm Hajar
+##  Hi there 👋, I'm Hajar
 👩‍💻 Full Stack Developer | 🌱 Currently learning React & Laravel | 🚀 Open to collaborations  
 
 - 💻 Developer-in-training    
-- 🌱 Developer-in-training – I’m currently learning Full Stack Development | MERN  
+- 🌱  I’m currently learning Full Stack Development | MERN  
 - 🎯 Expanding my skills in React & Laravel  
 - 📝 Documenting my learning journey here on GitHub  
 - 🛠️ Building projects to practice & grow  
 
-
-<br>
 
 <hr>
 
@@ -35,8 +33,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-e9c7ff?style=for-the-badge\&logo=github\&logoColor=181717)
 ![VS Code](https://img.shields.io/badge/VS%20Code-c1f0f6?style=for-the-badge\&logo=visual-studio-code\&logoColor=0078D4)
 
-
-<br>
 
 <hr>
 
