@@ -8,6 +8,10 @@
 - 🛠️ Building projects to practice & grow  
 
 
+<br>
+
+<hr>
+
 ### 🛠️ Tech Stack / Skills
 
 **Frontend:**
@@ -32,12 +36,13 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-c1f0f6?style=for-the-badge\&logo=visual-studio-code\&logoColor=0078D4)
 
 
+<br>
 
-### 🌸 How to reach me
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hajar-sosso-0a73a529b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sossohajar@gmail.com)
+### 🌐 Socials
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BAE1FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hajar-sosso-0a73a529b/)
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sossohajar@gmail.com)
 
 
