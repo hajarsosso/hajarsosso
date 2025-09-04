@@ -1,7 +1,7 @@
 ## # Hi there 👋, I'm Hajar
 👩‍💻 Full Stack Developer | 🌱 Currently learning React & Laravel | 🚀 Open to collaborations  
 
-- 💻 Full Stack Developer | 🌱 Currently learning React & Laravel | 🚀 Open to collaborations  
+- 💻 Developer-in-training    
 - 🌱 Developer-in-training – I’m currently learning Full Stack Development | MERN  
 - 🎯 Expanding my skills in React & Laravel  
 - 📝 Documenting my learning journey here on GitHub  
@@ -30,6 +30,13 @@
 ![Git](https://img.shields.io/badge/Git-ffe0e6?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-e9c7ff?style=for-the-badge\&logo=github\&logoColor=181717)
 ![VS Code](https://img.shields.io/badge/VS%20Code-c1f0f6?style=for-the-badge\&logo=visual-studio-code\&logoColor=0078D4)
+
+
+
+### 🌸 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hajar-sosso-0a73a529b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sossohajar@gmail.com)
 
 
 
